@@ -1,8 +1,9 @@
 qwertyuiop
 asdfghjkl
 zxcvbnm
-<<<<<<< HEAD
 asdfghjkl
 wertyuioasdfghjfghjjdfghj
-=======
->>>>>>> parent of 4c47cc5 (werty)
+sdfghjjkdfghjksfghjk
+ghjhkjld
+asdfghjkl
+wertyuioasdfghjfghjjdfgh
